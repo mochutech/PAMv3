@@ -1,7 +1,7 @@
 
 ## About
 
-**PAM** is a collection of portable apps for Windows. Each portable app has a single EXE to make it portable.<br />
+**PAMv3** is a collection of portable apps for Windows. Each portable app has a single EXE to make it portable.<br />
 
 In short, it's a wrapper that includes system records within the same directory to make the application portable. This will allow you, for example, to use your favorite application on a USB stick.
 
