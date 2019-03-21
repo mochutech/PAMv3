@@ -1,17 +1,7 @@
-<p align="center"><a href="https://mochutech.github.io/" target="_blank"><img width="100" src="https://github.com/portapps/portapps/blob/master/res/portapps.png"></a></p>
-
-<p align="center">
-  <a href="https://mochutech.github.io/releases/latest"><img src="https://img.shields.io/github/release/portapps/portapps.svg?style=flat-square" alt="GitHub release"></a>
-  <a href="https://goreportcard.com/report/github.com/portapps/portapps"><img src="https://goreportcard.com/badge/github.com/portapps/portapps?style=flat-square" alt="Go Report"></a>
-  <a href="https://www.codacy.com/app/portapps/portapps"><img src="https://img.shields.io/codacy/grade/01eb6a7ceb8e46e8ab90d2d74ecdad01.svg?style=flat-square" alt="Code Quality"></a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQD7AQGPDEPSG"><img src="https://img.shields.io/badge/donate-paypal-7057ff.svg?style=flat-square" alt="Donate Paypal"></a>
-  <a href="https://twitter.com/portapps"><img src="https://img.shields.io/twitter/follow/portapps.svg?style=flat-square" alt="Twitter Follow"></a>
-  <a href="https://www.reddit.com/r/Portapps"><img src="https://img.shields.io/badge/dynamic/json.svg?label=r/Portapps%20subscribers&color=red&style=flat-square&query=$.data.subscribers&url=https://www.reddit.com/r/Portapps/about.json" alt="Reddit subscribers"></a>
-</p>
 
 ## About
 
-🚀 **Portapps** is a collection of portable apps for Windows. Each portable app has a single EXE `[appname]-portable.exe` written in [Golang](https://golang.org/) to make it portable.<br />
+**PAM** is a collection of portable apps for Windows. Each portable app has a single EXE to make it portable.<br />
 
 In short, it's a wrapper that includes system records within the same directory to make the application portable. This will allow you, for example, to use your favorite application on a USB stick.
 
